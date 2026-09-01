@@ -59,7 +59,7 @@ app.layout = html.Div([
                 'boxShadow': '0 2px 4px rgba(239, 68, 68, 0.2)'
             })
         ], style={
-            'flex': '1', 'backgroundColor': '#FFFFFF', 'borderRadius': '12px', 'padding': '20px',
+            'flex': '1', 'backgroundColor': '#FFFFFF',  'borderRadius': '12px', 'padding': '20px',
             'boxShadow': '0 4px 6px -1px rgba(0, 0, 0, 0.1)', 'boxSizing': 'border-box'
         }),
         
